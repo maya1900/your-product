@@ -1,7 +1,10 @@
 node_modules/
 dist/
 .npm-cache/
-.git-real/
+.vercel/
+.vercel-data/
+.vercel-cache/
+.git-broken/
 .DS_Store
 *.local
 *.log
