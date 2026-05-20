@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.npm-cache/
+.git-real/
+.DS_Store
+*.local
+*.log
+*.tsbuildinfo
+node_modules/.tmp/
